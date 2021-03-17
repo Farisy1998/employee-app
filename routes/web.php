@@ -13,11 +13,10 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-Route::get('/emp', function () {
+Route::get('/', function () {
     return view('emp');
 });
-Route::get('/searchemp', function()
+Route::get('/search_emp', function()
 {
-    return view('search_emp')
-}
-);
+    return view('search_emp');
+});

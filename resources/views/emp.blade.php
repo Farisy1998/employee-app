@@ -33,7 +33,7 @@
                     </tr>
                     <tr>
                         <td>DOB</td>
-                        <td><input type="text" class="from-control"></td>
+                        <td><input type="text" class="form-control"></td>
                     </tr>
                     <tr>
                         <td>PIN code</td>
@@ -45,7 +45,7 @@
                     </tr>
                     <tr>
                         <td></td>
-                        <td><button class="btn btn-success">Register</button>cess</td>
+                        <td><button class="btn btn-outline-success">Register</button></td>
                     </tr>
                 </table>
             </div>
